@@ -1,0 +1,34 @@
+@import url("//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css");
+body{
+  background-color:#96EAD7;
+}
+
+#author{
+  text-align:right;
+}
+.quote_box{
+  background-color:white;
+  width:500px;
+  margin:5% auto auto auto;
+  padding:50px 30px 30px 30px;
+  height:auto; 
+  border-radius:10px;
+}
+
+#quote_author{
+   text-align:right;
+}
+
+#quote_button{ 
+  display:block;
+  margin:0 auto;
+}
+
+.quote_text{
+  color:green;
+  text-size:10em;
+}
+
+.fa-twitter-square{
+  text-size:2em;
+}
